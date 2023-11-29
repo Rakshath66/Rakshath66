@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=animated+master+head+for+github&sca_esv=586268016&rlz=1C1CHZN_enIN1039IN1039&tbm=isch&sxsrf=AM9HkKnBCL8CW8lzAfKHfTGLlBIOo1Om5Q:1701259480514&source=lnms&sa=X&ved=2ahUKEwiZyYa4lemCAxV8bmwGHSzMA1UQ_AUoAXoECAQQAw&biw=1600&bih=783&dpr=1#imgrc=TMrIUSPfnkU4AM)](https://rakshath66.io)
+[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)](https://rakshath66.io)
 <h1 align="center">Hi 👋, I'm Rakshath U Shetty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
