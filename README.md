@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshath66&label=Profile%20views&color=0e75b6&style=flat" alt="rakshath66" /> </p>
 
-- 🌱 I’m currently learning **Angular JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 My Portfolio [https://rakshath66.github.io/portfolio/](https://rakshath66.github.io/portfolio/)
 
