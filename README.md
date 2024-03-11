@@ -1,4 +1,4 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif)](https://rakshath66.io)
+[![MasterHead]([https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif))](https://rakshath66.io)
 <h1 align="center">Hi 👋, I'm Rakshath U Shetty</h1>
 <h3 align="center">A passionate Full Stack Enthusiast from India</h3>
 
