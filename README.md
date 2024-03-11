@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 My Portfolio (Give it a try) [https://rakshath66.github.io/portfolio/](https://rakshath66.github.io/portfolio/)
+- 👨‍💻 My Portfolio (Give it a try):- [https://rakshath66.github.io/portfolio/](https://rakshath66.github.io/portfolio/)
 
 - 💬 Ask me about **MERN, Next.js**
 
