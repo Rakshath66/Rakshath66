@@ -217,6 +217,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg)https://raw.githubusercontent.com/pacholoamit/pacholoamit/snake-svg/github-snake.svg" alt="Snake animation" />
+<img src="https://miro.medium.com/v2/resize:fit:679/1*PlyeRxCFLCbP8cL7uuVt5g.gif" alt="Snake animation" />
 
 ###
