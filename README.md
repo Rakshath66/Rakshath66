@@ -201,6 +201,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshath66&" alt="rakshath66" /></p>
 
 ###
+
+#29B2FE
 <!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rakshath66&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
