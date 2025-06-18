@@ -8,11 +8,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshath66" alt="rakshath66" /></a> </p> -->
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 My Portfolio (Give it a try):- [https://rakshath66.github.io/portfolio/](https://rakshath66.github.io/portfolio/)
 
-- 💬 Ask me about **MERN, Next.js**
+- 💬 Ask me about **MERN, Next.js, ML, SpringBoot**
 
 - 📫 How to reach me **eng20cs0278.rakshath.u.shetty@gmail.com**
 
