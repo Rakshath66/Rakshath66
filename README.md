@@ -45,10 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <a href="https://rakshathushetty.medium.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=medium&logo=medium&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-  <a href="https://medium.com/@rakshathushetty" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakshathushetty" height="35" width="40" />
+    <img src="https://img.shields.io/static/v1?message=medium&logo=medium&label=&color=FFFFFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
 </div>
 
